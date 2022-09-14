@@ -9,7 +9,7 @@
 * 🧠 Typescript
 * 🎥 Video Editor and Filmmaker (in my past life)
 
-- 🔭 I’m currently working on mobile development and videomapping for stride ➔ stride-it.com 
+- 🔭 I’m currently working on mobile development and videomapping for stride ➔ [stride-it.com]
 
 - 🌱 I’m currently learning how to write cleaner code, i try to do an exercise on codewar everyday, profile ➔ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='20'>](jorgeregula)  
  
