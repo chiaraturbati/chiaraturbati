@@ -1,5 +1,5 @@
 ![Mobile Developer and UX enthusiast](https://media-exp1.licdn.com/dms/image/C4D16AQFmFUOicyaMgQ/profile-displaybackgroundimage-shrink_350_1400/0/1643892507738?e=1668643200&v=beta&t=Q-Bh87A3kTImPJ5rRSx7696VWQi92nu3k-PjEWaWUbg)
-![Visitor Count](https://profile-counter.glitch.me/{chiaraturbati}/count.svg)
+
 
 ### Hi there 👋, I am Chiara Turbati
 #### Mobile Developer and UX enthusiast
@@ -23,3 +23,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaraturbati)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Visitor Count](https://profile-counter.glitch.me/{chiaraturbati}/count.svg)
