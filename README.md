@@ -1,8 +1,12 @@
 ![Mobile Developer and UX enthusiast](https://media-exp1.licdn.com/dms/image/C4D16AQFmFUOicyaMgQ/profile-displaybackgroundimage-shrink_350_1400/0/1643892507738?e=1668643200&v=beta&t=Q-Bh87A3kTImPJ5rRSx7696VWQi92nu3k-PjEWaWUbg)
-### Hi there 👋, Chiara Turbati
+### Hi there 👋, I am Chiara Turbati
 #### Mobile Developer and UX enthusiast
 
-Skills: REACT NATIVE / REACT JS / JS / TYPESCRIPT 
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+* 🧠 Typescript
 
 - 🔭 I’m currently working on mobile development and videomapping for stride ➔ stride-it.com 
 
