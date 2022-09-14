@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on mobile development and videomapping for  ([stride](https://stride-it.com/)).
 
-- 🌱 I’m currently learning how to write cleaner code, i try to do an exercise on codewar everyday, profile ➔ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='20'>](jorgeregula)  
+- 🌱 I’m currently learning how to write cleaner code, i try to do an exercise on codewar everyday ➔ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='20'>]([profile](https://www.codewars.com/users/jorgeregula))  
  
 - 📫 How to reach me: you can contact me on Linkedin  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/chiara-turbati-developer/)
 
