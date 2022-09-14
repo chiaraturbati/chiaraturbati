@@ -15,5 +15,7 @@
  
 - 📫 How to reach me: you can contact me on Linkedin  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/chiara-turbati-developer/)
 
+- ⚡ Fun fact: the puppy in my profile img is my dog, Millennials really are owning Pets instead of having kids, her name is Roma and i started programming  in order to have more time to spend with her 🐶
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaraturbati)](https://github.com/anuraghazra/github-readme-stats)
