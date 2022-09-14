@@ -7,6 +7,7 @@
 * 📱 React Native
 * 💻 HTML, CSS, JS
 * 🧠 Typescript
+* 🎥 Video Editor and Filmmaker (in my past life)
 
 - 🔭 I’m currently working on mobile development and videomapping for stride ➔ stride-it.com 
 
