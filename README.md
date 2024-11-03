@@ -1,5 +1,4 @@
-![Mobile Developer and UX enthusiast](https://media-exp1.licdn.com/dms/image/C4D16AQFmFUOicyaMgQ/profile-displaybackgroundimage-shrink_350_1400/0/1643892507738?e=1668643200&v=beta&t=Q-Bh87A3kTImPJ5rRSx7696VWQi92nu3k-PjEWaWUbg)
-
+Mobile Developer and UX enthusiast
 
 ### Hi there 👋, I am Chiara Turbati
 #### Mobile Developer and UX enthusiast
@@ -23,10 +22,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaraturbati)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2> GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/chiaraturbati?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiaraturbati&show_icons=true&theme=radical)](https://github.com/chiaraturbati)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraturbati&layout=compact&theme=radical)](https://github.com/chiaraturbati)
 
 ## You are the visitor number:
-![Visitor Count](https://profile-counter.glitch.me/{chiaraturbati}/count.svg)
+![Profile Views](https://komarev.com/ghpvs/?username=chiaraturbati&color=blueviolet)
