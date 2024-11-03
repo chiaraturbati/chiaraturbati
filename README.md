@@ -1,32 +1,40 @@
-Mobile Developer and UX enthusiast
-
-### Hi there 👋, I am Chiara Turbati
+# Hi there 👋, I am Chiara Turbati
 #### Mobile Developer and UX enthusiast
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
-* 🧠 Typescript
-* 🎥 Video Editor and Filmmaker (in my past life)
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on mobile development and videomapping for  ([stride](https://stride-it.com/)).
+## About Me
+- 🔭 I'm currently working on mobile development and videomapping at [stride](https://stride-it.com/)
+- 🌱 I'm currently learning how to write cleaner code
+- 💪 I try to do an exercise on Codewars everyday ➔ [![Codewars](https://www.codewars.com/users/jorgeregula/badges/micro)](https://www.codewars.com/users/jorgeregula)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiara-turbati-developer/)
+- 🎬 Fun fact: In my past life I was a Video Editor and Filmmaker
+- 🐶 The puppy in my profile img is my dog Roma - yes, I'm one of those Millennials with a pet instead of kids! Started programming to spend more time with her 
 
-- 🌱 I’m currently learning how to write cleaner code, i try to do an exercise on codewar everyday ➔ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='20'>](https://www.codewars.com/users/jorgeregula)
- 
-- 📫 How to reach me: you can contact me on Linkedin  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/chiara-turbati-developer/)
+## Version Control Activity
+<div align="center">
+  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
-- ⚡ Fun fact: the puppy in my profile img is my dog, Millennials really are owning Pets instead of having kids, her name is Roma and i started programming  in order to have more time to spend with her 🐶
+🔍 While my main work contributions are on Bitbucket, I maintain an active presence here on GitHub for:
+- 💻 Personal projects
+- 🎯 Daily coding challenges
+- 📚 Learning new technologies
+- 🤝 Contributing to open source when possible
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaraturbati)](https://github.com/anuraghazra/github-readme-stats)
--->
+## GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiaraturbati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraturbati&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<h2> GitHub Stats </h2>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiaraturbati&show_icons=true&theme=radical)](https://github.com/chiaraturbati)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraturbati&layout=compact&theme=radical)](https://github.com/chiaraturbati)
-
-## You are the visitor number:
+### Profile Views
 ![Profile Views](https://komarev.com/ghpvs/?username=chiaraturbati&color=blueviolet)
