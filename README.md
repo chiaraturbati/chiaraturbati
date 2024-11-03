@@ -37,4 +37,4 @@
 </div>
 
 ### Profile Views
-![Profile Views](https://komarev.com/ghpvs/?username=chiaraturbati&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=chiaraturbati)
